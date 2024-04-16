@@ -522,7 +522,9 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .header-big #search-list{text-align:center}
 .header-big .search-smart-tips{width:unset;left:20px;right:20px}
 .header-big .search-type input:checked+label,.header-big .search-type input:hover+label{position:relative;background:transparent!important}
+/*
 .header-big .search-type input:checked+label:before{content:'';border-width:8px 8px 0px 8px;border-style:solid;border-color:rgba(0,0,0,0.6) transparent transparent;position:absolute;left:50%;top:0;margin-left:-8px}
+*/
 .header-big .search-type li label{padding-top:5px}
 .header-big .s-type-list{position:relative!important;display:inline-table;overflow:auto;white-space:nowrap;text-align:center;position:inherit;top:inherit;padding:inherit;width:none;background:none!important;border-radius:inherit;box-shadow:none!important}
 .header-big:not(.no-bg) .s-type-list{color:#fff}
